@@ -1,0 +1,16 @@
+{
+  "name": "devtinder-3",
+  "version": "1.0.0",
+  "description": "tinde for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon app.js"
+  },
+  "author": "Ashutosh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
